@@ -46,7 +46,9 @@ Sort the files by last time modified displaying the newest first.
 ls -l -t
 -->
 Diplay the location of a program/command, where it is installed.
-
+--->
+whereis 
+--->
 Which command is used to switch directory from one to another
 -->
 cd
