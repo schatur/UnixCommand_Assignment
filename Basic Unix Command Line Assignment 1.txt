@@ -8,7 +8,7 @@ Important command and option to learn unix commands:-
 man Command
 Example:-
 man ls
-
+help
 --help Option
 Example:-
 ls --help
